@@ -15,7 +15,7 @@
 ## Web 4.0 - Inteligência Artificial
 --- 
 ## Design Process
-- 1 - User Research – conhecendo e entendendo o usuário (Quais são as suas dores) 
+- 1 - User Research – 0conhecendo e entendendo o usuário (Quais são as suas dores) 
 - 2 - Analysis – identificando oportunidades 
 - 3 - Design – conceitualização e exploração 
 - 4 - Prototype – implementação da ideia 
@@ -70,3 +70,47 @@ A Premissa em UX é a proposta das informações necessárias para se chegar a c
 - Prototipagem (wireframes navegáveis)
 - Entregáveis de UX
 - Testes de usabilidade e documentação
+---
+## Personas 
+(Tipos de Usuários - Andrzej Marczewsk)
+- Socializadores (Relacionamentos)
+    - Buscam estar em comunicadade
+    - Querem ter a sensação de "fazer parte"
+    - Compartilhamento
+    - Espaço para comentários
+- Espíritos Livres (Autonomia)
+    - Buscam liberdade para agir
+    - Querem ter a sensação de "estar no controle"
+    - Funcionalidades undependentes
+    - Ter opções de escolha
+- Empreendedores (Maestria)
+    - Buscam estar a par de tudo
+    - Querem ter a sensação de "conhecimento pleno"
+    - Seções de ajuda
+    - Atalhos e ícones
+- Filantropos (Propósito)
+    - Buscam estar em colaboração
+    - Querem ter a sensação de "um mundo melhor"
+    - Objetivos que ajudem pessoas
+    - Relatórios que justifiquem essa atitude
+- Jogadores (Recompensas)
+    - Buscam estar em desafio
+    - Querem ter a sensação de "estar em um jogo"
+    - Etapas ou níveis
+    - Títulos, Brasões ou Áreas Desbloqueadas
+- Disruptores (Mudanças)
+    - Buscam estar em contradição
+    - Querem ter a sensação de "poder apontar melhorias"
+    - Canais de feedback
+    - Recursos de avaliação
+---
+  ## Mapa de empatia
+  ![Mapa de empatia](https://acaojr.com.br/wp-content/uploads/2022/03/mapa-empatia-branco-rd.jpg)
+
+ - Essas análises são muito importantes porque a partir delas irão gerar uma user story que poderá se transformar em funcionalidades
+
+--- 
+## Gamificação (Técnica para que tenha engajamento do usuário)
+- Ranking individual 
+- Reforço positivo de pontuação
+- Mecanismos de Feedback (Likes e comentários, medalhas ou brasões)
