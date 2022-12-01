@@ -114,3 +114,58 @@ A Premissa em UX é a proposta das informações necessárias para se chegar a c
 - Ranking individual 
 - Reforço positivo de pontuação
 - Mecanismos de Feedback (Likes e comentários, medalhas ou brasões)
+- Oferta de versões gratuitas com restrições
+- Desbloquear coisas novas
+- Ter reconhecimento social
+- Ter realização pessoal
+### Realização 
+- Níveis e metas 
+- Mapeamento de progressão do usuário
+- Posicionamento na jornada de uso do app
+### Motivação
+- Intrínseca - Criada por valores internos formando um senso de propósito
+- Extrinseca - Criada por fatores externos como reconhecimento social
+### Aprendizagem
+- Aviso de senhas curtas
+- Desabilitar botões de próxima etapa
+- Ícones e atalhos
+- Jornada do super usuário (curva de uso)
+
+## Técnicas
+### Processo Design Thinking (Empatia, Definição, Ideação, Prototipação, Teste)
+    - Quem 
+    - O que 
+    - Como 
+    - Porque
+### Card sorting 
+- (Cartões ou post-its, físicos ou virtuais, com nomes e palavras que representam os rótulos das categorias em análise. A ideia é organizar, de forma lógica, os cartões criados na dinâmica.)
+- Dividir a área onde ficam os post-its, em partes lógicas que representam as categorias que o usuário pode acessar. Os participantes escrevem seus post-its livremente, sem julgamento.
+- Análise e refinamento das ideias
+### Personas (Histórias de usuários)
+- Dores
+- Necessidades
+- Pensa e Sente
+- O que ouve?
+- O que vê ?
+- O que fala e faz?
+### Card sorting
+## Entregáveis de UX 
+1. Objetivos de negócios (missão, visão, valores). 
+2. Proposta de valor (Ser um app____(objetivo) que ajuda pessoas a _____ (promessa) por intermédio de _____ (como) sem que elas tenham que_____(dor que o app soluciona))
+3. Análise de competitividade (Pesquise 3 rivais, Avalie qualidades e fraquezas)
+4. Personas (Questionamentos estruturados, psicologia humanista "dores e necessidades")
+5. Análise de conteúdo (Card sorting, debate em equipe, mapeamento de soluções)
+
+## proton.io (para criar protótipo de tela)
+
+## User Case vs User Story
+- Use Case (os casos de uso são escritos descrevendo como as pessoas realmente usariam seu sistema ao tentar concluir tarefas)
+  - Foco técnico
+  - Aprofundado
+  - Detalhado
+
+- User story (User Journey)
+  - Foco no usuário
+  - Geral
+  - Curto
+
