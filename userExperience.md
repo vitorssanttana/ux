@@ -148,7 +148,6 @@ A Premissa em UX é a proposta das informações necessárias para se chegar a c
 - O que ouve?
 - O que vê ?
 - O que fala e faz?
-### Card sorting
 ## Entregáveis de UX 
 1. Objetivos de negócios (missão, visão, valores). 
 2. Proposta de valor (Ser um app____(objetivo) que ajuda pessoas a _____ (promessa) por intermédio de _____ (como) sem que elas tenham que_____(dor que o app soluciona))
@@ -163,9 +162,16 @@ A Premissa em UX é a proposta das informações necessárias para se chegar a c
   - Foco técnico
   - Aprofundado
   - Detalhado
-
 - User story (User Journey)
   - Foco no usuário
   - Geral
   - Curto
+## Os 5 planos de Jesse James Garret
+[Download do livro em pdf](https://docplayer.net/12259154-The-elements-of-user-experience.html )
+- Strategy (User Needs | Produc objetives)
+- Scope (Functional Specifications | content Requirements)
+- Structure (Interaction Design | Information Architecture)
+- Skeleton (Inferface design | Navigation Design | Information Design)
+- Surface (Sensory Design)
+- Produto: funcional e como informação 
 
