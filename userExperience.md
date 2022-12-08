@@ -175,3 +175,13 @@ A Premissa em UX é a proposta das informações necessárias para se chegar a c
 - Surface (Sensory Design)
 - Produto: funcional e como informação 
 
+## Entregáveis de UX: Checklist
+- Objetivos de negócios – missão, visão, valores 
+- Proposta única de valor 
+- Análise de competitividade 
+- Personas 
+- Análise de conteúdo 
+- Prototipagem 
+- Use Case 
+- User Jorney 
+- Heurísticas de Nielsen 
